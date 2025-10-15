@@ -33,8 +33,6 @@
     height: 512px;
 }
 .small-title {
-    position: relative;
-    left: 8px;
     width: 207px;
     height: 15px;
     font-weight: 700;
@@ -42,7 +40,7 @@
     line-height: 22px;
     letter-spacing: 2px;
     color: #ffffff;
-    margin: 0 0 16px 0;
+    margin: 0 0 16px 8px;
 }
 .gap-title {
     display: flex;
@@ -859,11 +857,8 @@
 .logo-sect9 {
     width: 32px;
     height: 32px;
-
 }
 .box-content-sect9 {
-    width: 1104px;
-    height: 397px;
     display: flex;
 }
 .item-sect9 {
@@ -996,3 +991,4 @@
     display: flex;
     gap: 11.86px;
 }
+
